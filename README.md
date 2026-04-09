@@ -120,6 +120,28 @@ The website is fully responsive and works across:
 
 
  ----
+
+## 📂 Project Structure
+
+paperhood/  <br>
+│           <br>
+├── frontend/  <br>
+│   ├── index.html <br>
+│   ├── style.css  <br>
+│   └── script.js  <br>
+│                  <br>
+└── images/        
+
+
+----
+
+## 👉 How to Run
+
+- Download or clone the project
+- Open **index.html** in any modern browser
+- No build step, no dependencies, no server required
+
+----
  
 ## 🙌 Author
 
