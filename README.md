@@ -107,6 +107,7 @@ The website is fully responsive and works across:
 ❌ No frameworks used (as required)
 ----
 
+
 ## 🎯 What This Project Demonstrates
 
 - Clean and semantic HTML
@@ -116,9 +117,8 @@ The website is fully responsive and works across:
 - UI/UX design understanding
 - Attention to detail
 
-----
 
-## 🙌 Author
+ 🙌 Author
 
 **Harish**
 Developer
