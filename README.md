@@ -106,7 +106,7 @@ The website is fully responsive and works across:
 
 ❌ No frameworks used (as required)
 
----
+----
 
 
 ## 🎯 What This Project Demonstrates
@@ -119,7 +119,7 @@ The website is fully responsive and works across:
 - Attention to detail
 
 
- ---
+ ----
  
 ## 🙌 Author
 
