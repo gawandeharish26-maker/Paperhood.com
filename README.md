@@ -105,6 +105,7 @@ The website is fully responsive and works across:
 - Vanilla JavaScript
 
 ❌ No frameworks used (as required)
+
 ----
 
 
@@ -118,7 +119,10 @@ The website is fully responsive and works across:
 - Attention to detail
 
 
- 🙌 Author
+ ----
+ 
+## 🙌 Author
 
 **Harish**
-Developer
+
+ Developer 
