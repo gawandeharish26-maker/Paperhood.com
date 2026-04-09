@@ -1,5 +1,3 @@
-# Paperhood.com <br>
-Responsive landing page for Paperhood – built with HTML, CSS & JavaScript
 
 # 📚 Paperhood – Print On Demand Landing Page
 
@@ -106,6 +104,7 @@ The website is fully responsive and works across:
 - CSS3 (Flexbox + Grid)
 - Vanilla JavaScript
 
+❌ No frameworks used (as required)
 ----
 
 ## 🎯 What This Project Demonstrates
