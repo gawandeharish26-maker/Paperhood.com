@@ -122,3 +122,4 @@ The website is fully responsive and works across:
 ## 🙌 Author
 
 **Harish**
+Developer
